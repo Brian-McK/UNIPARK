@@ -20,7 +20,7 @@ https://mahara.dkit.ie/view/view.php?t=6aZC59HxTVqJ02sk8tB7
 
 ## Screenshots
 
-![App Screenshot]((https://i.postimg.cc/zvt5TpPw/screencapture-127-0-0-1-5000-register-2022-01-12-15-11-03.png)
+![App Screenshot](https://i.postimg.cc/zvt5TpPw/screencapture-127-0-0-1-5000-register-2022-01-12-15-11-03.png)
 ![App Screenshot](https://i.postimg.cc/qvC0Cscn/screencapture-127-0-0-1-5000-login-2022-01-12-15-11-51.png)
 ![App Screenshot](https://i.postimg.cc/mrf43PVn/screencapture-127-0-0-1-5000-dashboard-2022-01-12-15-13-14.png)
 ![App Screenshot](https://i.postimg.cc/D02LSftJ/screencapture-127-0-0-1-5000-user-top-up-account-2022-01-12-15-41-46.png)
