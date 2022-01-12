@@ -1,5 +1,4 @@
 **<h1>UniPark.</h1>**
-
 *<h3>Developed by Brian McKenna, Conor McGuire, Jacqueline O'Connor and Kamil Jozefowicz.</h3>*
 
 UniPark is a assistive technology smart car parking system that uses sensors to identify vehicles.
@@ -19,7 +18,6 @@ https://www.scrumwise.com/scrum/#/overview/project/l8-sd3b-2021-unipark/id-31429
 https://mahara.dkit.ie/view/view.php?t=6aZC59HxTVqJ02sk8tB7
 
 ## Screenshots
-
 ![App Screenshot](https://i.postimg.cc/zvt5TpPw/screencapture-127-0-0-1-5000-register-2022-01-12-15-11-03.png)
 ![App Screenshot](https://i.postimg.cc/qvC0Cscn/screencapture-127-0-0-1-5000-login-2022-01-12-15-11-51.png)
 ![App Screenshot](https://i.postimg.cc/mrf43PVn/screencapture-127-0-0-1-5000-dashboard-2022-01-12-15-13-14.png)
